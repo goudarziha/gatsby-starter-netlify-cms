@@ -1,16 +1,16 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Oliver's Tomato Chutney
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: This is a thing
+subheading: An Authentic Pakistani Condiment
 mainpitch:
-  title: Why Kaldi
+  title: Why Oliver's
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    My Grandfather's recipe from Lahore, Pakistan. A great addition to any
+    charcuterie board, will elevate your average grilled cheese and spice
+    up a breakfast burrito. It's addicting and like nothing you've ever
+    tasted before.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -20,10 +20,6 @@ intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
         availability.
     - image: /img/coffee-gear.png
       text: >
